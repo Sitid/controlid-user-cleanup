@@ -1,0 +1,25 @@
+# --- NUNCA subir datos reales -------------------------------------------
+# listas de personal, resultados, planillas, informes y backups
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.ods
+*.pdf
+*.txt
+*.log
+*.bak
+*backup*.sql
+*.sql.gz
+*.zip
+resultado_relojes_*
+salida*
+
+# archivos de ejemplo con datos ficticios (estos SÍ se suben)
+!ejemplos/*.ejemplo.csv
+!ejemplos/*.ejemplo.tsv
+
+# varios
+.DS_Store
+Thumbs.db
+*.tmp

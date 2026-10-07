@@ -1,0 +1,5 @@
+reloj;serial;ip
+Planta - Ingreso;0000000000000001;192.0.2.10
+Planta - Comedor;0000000000000002;192.0.2.11
+Oficinas - Molinete;0000000000000003;198.51.100.20
+Deposito;;198.51.100.21
